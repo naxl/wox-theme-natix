@@ -36,7 +36,7 @@
   <Style x:Key="ItemSubTitleSelectedStyle" BasedOn="{StaticResource BaseItemSubTitleSelectedStyle}" TargetType="{x:Type TextBlock}"> 
     <Setter Property="Foreground" Value="#ffffff"/> 
   </Style>  
-  <SolidColorBrush x:Key="ItemSelectedBackgroundColor">#ff0000</SolidColorBrush>
+  <SolidColorBrush x:Key="ItemSelectedBackgroundColor">#00ff00</SolidColorBrush>
   <Style x:Key="ThumbStyle" BasedOn="{StaticResource BaseThumbStyle}" TargetType="{x:Type Thumb}"> 
   </Style>  
   <Style x:Key="ScrollBarStyle" BasedOn="{StaticResource BaseScrollBarStyle}" TargetType="{x:Type ScrollBar}"></Style> 
